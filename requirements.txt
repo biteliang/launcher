@@ -1,2 +1,2 @@
-psutil==5.8.0
-pywin32==301
+psutil
+pywin32
